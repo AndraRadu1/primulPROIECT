@@ -8,9 +8,9 @@ public class Primitive {
          float numarcuvirgula = 7.3F;
          double numarCuPunct=7.3;
          char unSingurCaracter= 'G';
-         long numarFoarteMare=1235647788899;
+         long numarFoarteMare=188899;
          boolean trueSauFalse = true;
-         boolean trueSauFalse = false;
+         trueSauFalse = false;
          byte valoareMaxima = -22;
 
 
